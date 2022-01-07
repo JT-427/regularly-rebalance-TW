@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Run
 ```sh
-cd <folder> # 'annual rebalance', 'semi annual rebalance', 'quarterly rebalance'
+cd <folder> # 'annual rebalance', 'quarterly rebalance'
 python run.py
 ```
 
