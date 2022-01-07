@@ -116,10 +116,9 @@ print('volatility:',vol)
 
 
 ### Result
-投資組合與大盤之價值比較
-|年   |季   |
-|-----|-----|
-|![img](https://github.com/JT-427/regularly-rebalance-TW/blob/master/annual%20rebalance/Output/ANNUAL_Portfolio%20vs%20TWII%20vs%200050.png)|![img](https://github.com/JT-427/regularly-rebalance-TW/blob/master/quarterly%20rebalance/Output/Quarter_Portfolio%20vs%20TWII%20vs%200050.png)|
+投資組合與大盤和0050之價值比較
+|年|![img](https://github.com/JT-427/regularly-rebalance-TW/blob/master/annual%20rebalance/Output/ANNUAL_Portfolio%20vs%20TWII%20vs%200050.png)|
+|季|![img](https://github.com/JT-427/regularly-rebalance-TW/blob/master/quarterly%20rebalance/Output/Quarter_Portfolio%20vs%20TWII%20vs%200050.png)|
 
 
 ## Resource
