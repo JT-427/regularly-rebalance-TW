@@ -122,9 +122,9 @@ python run.py
 |年|![img](https://github.com/JT-427/regularly-rebalance-TW/blob/master/annual%20rebalance/Output/ANNUAL_Portfolio%20vs%20TWII%20vs%200050.png)|
 |季|![img](https://github.com/JT-427/regularly-rebalance-TW/blob/master/quarterly%20rebalance/Output/Quarter_Portfolio%20vs%20TWII%20vs%200050.png)|
 
-
 ## Resource
-- [yfinance](https://github.com/ranaroussi/yfinance)
+- [yfinance](https://github.com/ranaroussi/yfinance)  
+yfinance資料取得方便且免費，但有許多錯誤資料，導致算出來的績效與實際有些出入。
 
 
 ***
